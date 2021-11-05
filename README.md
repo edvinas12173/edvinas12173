@@ -4,9 +4,10 @@
 This is the place where I opensource stuff and break things 🤣
 ```
 
-- 🌱 I’m currently learning: <b>Laravel</b>, <b>VueJS</b>
-- 📫 How to reach me: 📧 edvinas12173@gmail.com
-- 🌠 Fun fact: 💜 🏍️
+- 🏙️ Living in Lithuania, Vilnius
+- 🌱 I’m currently learning <b>Laravel</b>, <b>VueJS</b>
+- 📫 How to reach me 📧 edvinas12173@gmail.com
+- 🌠 Fun fact 💜 🏍️
 
 #
 

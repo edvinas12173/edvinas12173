@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 📫 How to reach me: 📧 edvinas12173@gmail.com
 - 🌠 Fun fact: 💜 🏍️
 
-# 🚀 Languages and Tools:
+#
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -29,3 +29,7 @@ This is the place where I opensource stuff and break things 🤣
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact&langs_count=5)](https://github.com/edvinas12173/InvoiceR)

@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Edvinas Valentinovičius
 
-``` This is the place where I opensource stuff and break things 🤣 ```
+```
+This is the place where I opensource stuff and break things 🤣
+```
 
 - 🌱 I’m currently learning: <b>Laravel</b>, <b>VueJS</b>
-- 📫 How to reach me: edvinas12173@gmail.com
-- 🌠 Fun fact: I 💜 🏍️
+- 📫 How to reach me: 📧 edvinas12173@gmail.com
+- 🌠 Fun fact: 💜 🏍️
 
 # 🚀 Languages and Tools:
 
@@ -27,6 +29,3 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-
-

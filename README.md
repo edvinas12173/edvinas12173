@@ -34,4 +34,7 @@ This is the place where I opensource stuff and break things 🤣
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact&langs_count=5)](https://github.com/edvinas12173/InvoiceR)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvinas12173&show_icons=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact"/>
+</div>

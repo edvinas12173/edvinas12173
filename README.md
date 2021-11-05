@@ -6,11 +6,6 @@
 - 📫 How to reach me: edvinas12173@gmail.com
 - 🌠 Fun fact: I 💜 🏍️
 
-# 📄 Latest My Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edvinas12173&repo=InvoiceR&show_owner=true)](https://github.com/edvinas12173/InvoiceR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edvinas12173&repo=To-Do&show_owner=true)](https://github.com/edvinas12173/To-Do)
-
 # 🚀 Languages and Tools:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)

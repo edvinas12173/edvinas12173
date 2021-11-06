@@ -34,8 +34,8 @@ This is the place where I opensource stuff and break things 🤣
 
 #
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edvinas12173&show_icons=true&line_height=22"/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edvinas12173&show_icons=true&line_height=20"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact"/>
 </p>
 

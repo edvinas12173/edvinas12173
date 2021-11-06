@@ -34,10 +34,10 @@ This is the place where I opensource stuff and break things 🤣
 
 #
 
-<div>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=edvinas12173&show_icons=true"/>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact"/>
-</div>
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=edvinas12173&show_icons=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact"/>
+</p>
 
 #
 

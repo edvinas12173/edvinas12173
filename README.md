@@ -30,7 +30,7 @@ This is the place where I opensource stuff and break things 🤣
 #
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvinas12173"/>
 </p>
 
 #

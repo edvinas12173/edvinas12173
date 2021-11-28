@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Edvinas Valentinovičius
 
 - 🏙️ Living in Lithuania, Vilnius
-- 🌱 I’m currently learning <b>Laravel</b>, <b>VueJS</b>
+- 🌱 I’m currently learning <b>Laravel</b>, <b>Symfony</b>, <b>VueJS</b>
 - 📫 How to reach me 📧 edvinas12173@gmail.com
 - 🌠 Fun fact 💜 🏍️
 
